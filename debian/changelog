@@ -1,0 +1,13 @@
+ros-hydro-husky-desktop (0.0.2-0quantal) quantal; urgency=high
+
+  * Add husky_simulator to the desktop package.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Sun, 29 Sep 2013 04:00:00 -0000
+
+ros-hydro-husky-desktop (0.0.1-0quantal) quantal; urgency=high
+
+  * Metapackages for robot and desktop variants.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 16 Sep 2013 04:00:00 -0000
+
+
