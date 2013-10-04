@@ -1,0 +1,19 @@
+ros-hydro-husky-robot (0.0.3-0raring) raring; urgency=high
+
+  * Set minimum version for husky_bringup, add husky_navigation.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 04 Oct 2013 04:00:00 -0000
+
+ros-hydro-husky-robot (0.0.2-0raring) raring; urgency=high
+
+  * No change.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Sun, 29 Sep 2013 04:00:00 -0000
+
+ros-hydro-husky-robot (0.0.1-0raring) raring; urgency=high
+
+  * Metapackages for robot and desktop variants.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 16 Sep 2013 04:00:00 -0000
+
+
