@@ -1,4 +1,4 @@
 husky_metapackages
 ==================
 
-Metapackages for installing Husky
+Metapackages for installing Clearpath Husky A200 Software

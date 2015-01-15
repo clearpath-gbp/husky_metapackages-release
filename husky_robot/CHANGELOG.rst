@@ -2,6 +2,14 @@
 Changelog for package husky_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2015-01-15)
+------------------
+* Update descriptions, dependencies, and maintainer
+* Contributors: Paul Bovbel
+
+* RP-264 Update descriptions, dependencies, and maintainer
+* Contributors: Paul Bovbel
+
 0.0.3 (2013-10-04)
 ------------------
 * Set minimum version for husky_bringup, add husky_navigation.
