@@ -1,0 +1,27 @@
+ros-indigo-husky-desktop (0.1.0-0saucy) saucy; urgency=high
+
+  * Update descriptions, dependencies, and maintainer
+  * Add common message dependencies to desktop metapackage.
+  * Contributors: Mike Purvis, Paul Bovbel
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Thu, 15 Jan 2015 05:00:00 -0000
+
+ros-indigo-husky-desktop (0.0.3-0saucy) saucy; urgency=high
+
+  * Set minimum versions of desktop packages.
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Fri, 04 Oct 2013 04:00:00 -0000
+
+ros-indigo-husky-desktop (0.0.2-0saucy) saucy; urgency=high
+
+  * Add husky_simulator to the desktop package.
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Sun, 29 Sep 2013 04:00:00 -0000
+
+ros-indigo-husky-desktop (0.0.1-0saucy) saucy; urgency=high
+
+  * Metapackages for robot and desktop variants.
+
+ -- Paul Bovbel <pbovbel@clearpathrobotics.com>  Mon, 16 Sep 2013 04:00:00 -0000
+
+
