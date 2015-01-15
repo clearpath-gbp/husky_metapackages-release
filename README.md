@@ -1,3 +1,26 @@
+## husky_metapackages (indigo) - 0.1.0-0
+
+The packages in the `husky_metapackages` repository were released into the `indigo` distro by running `/usr/bin/bloom-release husky_metapackages --rosdistro indigo --track indigo --new-track` on `Thu, 15 Jan 2015 17:36:30 -0000`
+
+These packages were released:
+- `husky_desktop`
+- `husky_robot`
+
+Version of package(s) in repository `husky_metapackages`:
+- upstream repository: https://github.com/husky/husky_metapackages.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## husky_metapackages - 0.0.3-0
 
 User `administrator@husky-vm` released the packages in the `husky_metapackages` repository by running `/home/administrator/husky_ws/src/bloom_easy/scripts/release` on `Fri, 04 Oct 2013 04:30:28 -0000`
