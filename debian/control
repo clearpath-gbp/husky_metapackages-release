@@ -1,0 +1,12 @@
+Source: ros-indigo-husky-desktop
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/husky_desktop
+Standards-Version: 3.9.2
+
+Package: ros-indigo-husky-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-husky-msgs, ros-indigo-husky-viz
+Description: Metapackage for Clearpath Husky visualization software
