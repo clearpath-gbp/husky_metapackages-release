@@ -2,6 +2,11 @@
 Changelog for package husky_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2015-02-20)
+------------------
+* Update description and docs
+* Contributors: Paul Bovbel
+
 0.1.0 (2015-01-15)
 ------------------
 * Update descriptions, dependencies, and maintainer

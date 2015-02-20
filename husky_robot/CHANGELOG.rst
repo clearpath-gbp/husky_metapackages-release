@@ -2,6 +2,12 @@
 Changelog for package husky_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2015-02-20)
+------------------
+* Remove navigation
+* Update description and docs
+* Contributors: Paul Bovbel
+
 0.1.0 (2015-01-15)
 ------------------
 * Update descriptions, dependencies, and maintainer
